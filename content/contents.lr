@@ -10,7 +10,7 @@ __PyCon Philippines__ is a volunteer-run, not-for-profit conference centered aro
 
 The main goal of this conference is to provide a venue where the Python programming language and surrounding technologies can be explored, discussed and exercised.
 
-We have an interest to gather software engineers, programming enthusiasts, startup founders, corporate IT decision makers, students and IT educators in a 2-day event where we can collaborate and learn with each other.
+We gather software engineers, programming enthusiasts, startup founders, corporate IT decision makers, students and IT educators in a 2-day event where we can collaborate and learn with each other.
 
 ---
 theme: This year's theme is _Diversity_. Our aim is to show that Python has something for everyone: from hobbyists, to educators, to professionals.
@@ -94,7 +94,7 @@ big data analysis.
 #### speaker ####
 photo: ian-panganiban.jpg
 ----
-name: Luis Caezar Ian Pangniban
+name: Luis Caezar Ian Panganiban
 ----
 topic: Developing PhilSHORE a Marine Spatial Tool with Python
 ----
@@ -222,6 +222,14 @@ name: Isabel Sieh
 topic: Building a Coding Community
 ----
 bio: Isabel is a 12 year-old Grade 7 student who started teaching herself to code online when she was 10.  She has learned HTML, CSS, JavaScript and Python. In her attempts to find a community of coders, she founded Girls Will Code as an after school activity.  She loves reading, tennis, math and piano.  She is part of serial entrepreneur group Sieh Sisters who won Best Booth in 2014 Kiddopreneur Bazaar. Their latest venture is a cotton candy rental machine.  Last month she won a Star Wars costume competition where she incorporated an app on a cell phone on her R2D2 costume.
+#### speaker ####
+photo: markku.jpg
+----
+name: Markku Lepisto
+----
+topic: Running Python without managing servers / AWS Lambda serverless computing workshop
+----
+bio: Markku is the APAC Technology Evangelist at Amazon Web Services. He has been in the IT industry for 15 years, and has held various technical and management positions, covering R&D, technical support and architecture. For the past couple of years, Markku was responsible for the cloud computing architecture and technology transformation of Nokia Siemens Networksâ global business units. Markku has worked out of Finland, China and Singapore.
 ---
 sponsors:
 
@@ -288,6 +296,40 @@ The premier Python open-source CMS
 Plone 5 is fifteen years of stability wrapped in a modern, powerful user-centric package. It continues to set the pace for content management systems by offering the most functionality and customization out of the box.
 ----
 url: https://plone.org/
+#### sponsor ####
+package: bronze
+----
+logo: monetize-more.png
+----
+name: MonetizeMore
+----
+blurb:
+
+MonetizeMore is an industry leader in website monetization that combines state of the art monetization technology with a team of dynamic and creative thinkers.
+
+We empower website owners and publishers earn more from their ads.  We're a Google Certified Adsense Partner you can trust to manage your ad inventory.
+----
+url: http://www.monetizemore.com/
+#### sponsor ####
+package: bronze
+----
+logo: collabspot.svg
+----
+name: Collabspot
+----
+blurb: Collabspot helps users to be more productive within their Gmail by integrating their CRM in Google Apps.
+----
+url: https://www.collabspot.com/
+#### sponsor ####
+package: bronze
+----
+logo: hired.jpg
+----
+name: Hired
+----
+blurb: Hired is an online marketplace that helps top tech talent in the Philippines land a dream job at leading tech startups and companies in Singapore, Australia and tech hubs around the world. We bring job offers to you, with opportunities to work alongside world-class tech teams. Get hired and you’ll receive a $1,000 bonus from us!
+----
+url: https://hired.com.sg
 ---
 gold_sponsors:
 
@@ -310,61 +352,55 @@ time: 2016-2-27 07:30
 ----
 title: Registration
 ----
-person:
+person: 
 #### timeslot ####
-time: 2016-2-27 8:00
+time: 2016-2-27 8:25
 ----
 title: Opening Remarks
 ----
-person:
+person: Sony Valdez
 #### timeslot ####
-time: 2016-2-27 8:15
+time: 2016-2-27 8:30
 ----
 title: Building a Coding Community
 ----
 person: Isabel Sieh
 #### timeslot ####
-time: 2016-2-27 8:50
+time: 2016-2-27 9:05
 ----
 title: Keynote: Python — the People's Programming Language
 ----
 person: Carol Willing
 #### timeslot ####
-time: 2016-2-27 9:30
+time: 2016-2-27 9:55
 ----
 title: Full-stack: Dealing with the diversity of technology
 ----
 person: Evan Dale Aromin
 #### timeslot ####
-time: 2016-2-27 10:05
+time: 2016-2-27 10:30
 ----
 title: Break
 ----
-person:
+person: 
 #### timeslot ####
-time: 2016-2-27 10:35
+time: 2016-2-27 11:00
 ----
 title: Developing PhilSHORE a Marine Spatial Tool with Python
 ----
 person: Ian Panganiban & Charmyne Mamador
 #### timeslot ####
-time: 2016-2-27 11:25
-----
-title: A Raspberry Pi Hexy
-----
-person: Mithi Sevilla
-#### timeslot ####
 time: 2016-2-27 12:00
 ----
 title: Lunch
 ----
-person:
+person: 
 #### timeslot ####
 time: 2016-2-27 13:00
 ----
-title: PyCon Inspiration
+title: A Raspberry Pi Hexy
 ----
-person: Austin Imperial
+person: Mithi Sevilla
 #### timeslot ####
 time: 2016-2-27 13:35
 ----
@@ -382,7 +418,7 @@ time: 2016-2-27 15:00
 ----
 title: Break
 ----
-person:
+person: 
 #### timeslot ####
 time: 2016-2-27 15:30
 ----
@@ -392,15 +428,15 @@ person: Marylette Roa & Iris Uy
 #### timeslot ####
 time: 2016-2-27 16:20
 ----
-title: Keynote: Python x Data x Science
+title: Running Python without managing servers
 ----
-person: Reina Reyes
+person: Markku Lepisto
 #### timeslot ####
 time: 2016-2-27 17:00
 ----
-title: End of Day 1
+title: Keynote: Python x Data x Science
 ----
-person:
+person: Reina Reyes
 ---
 schedule_day_2:
 
@@ -464,12 +500,6 @@ time: 2016-2-28 17:15
 title: Closing Remarks
 ----
 person:
-#### timeslot ####
-time: 2016-2-28 17:30
-----
-title: End of Conference
-----
-person:
 ---
 workshops_main:
 
@@ -500,6 +530,12 @@ time: 2016-2-28 13:15
 title: Python for Beginners
 ----
 person: Sony Valdez
+#### timeslot ####
+time: 2016-2-28 15:15
+----
+title: AWS Lambda serverless computing workshop
+----
+person: Markku Lepisto
 ---
 workshops_room_b:
 
@@ -521,10 +557,29 @@ blurb: ChannelFix is a brand new approach to social media, built on a totally or
 ----
 url: https://channelfix.com/
 #### marketing_partner ####
-logo: pycharm.png
+logo: pycharm.svg
 ----
 name: JetBrains PyCharm
 ----
 blurb: JetBrains PyCharm — Python IDE with complete set of tools for productive development with Python programming language. In addition, the IDE provides high-class capabilities for professional Web development with Django framework.
 ----
 url: https://www.jetbrains.com/pycharm/
+#### marketing_partner ####
+logo: aws.png
+----
+name: Amazon Web Services
+----
+blurb: Amazon Web Services (AWS) offers a broad set of global compute, storage, database, analytics, application, and deployment services that help organizations move faster, lower IT costs, and scale applications. [@AWSCloudSEAsia](https://twitter.com/AWSCloudSEAsia) / [AWS User Group](https://www.facebook.com/groups/AWSPHUG/)
+----
+url: https://aws.amazon.com/
+---
+media_partners:
+
+#### media_partner ####
+logo: rappler.png
+----
+name: Rappler
+----
+blurb: Rappler, a social news network where stories inspire community engagement and digitally fuelled actions for social change. Rappler comes from the root words "rap" (to discuss) + "ripple" (to make waves). It's a new world of limitless collaboration enabled by new technology and connected by social media.
+----
+url: http://www.rappler.com
